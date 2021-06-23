@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @B34rly
 - 👀 I’m interested in gettinig stuf done
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning CSS and C++
 - 💞️ I’m looking to collaborate on nothing rn tbh
 - 📫 How to reach me ...
 
